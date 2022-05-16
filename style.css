@@ -1,0 +1,68 @@
+.ca{
+    color:red;
+  }
+  .xyz{
+      color:blue;
+      background-color:skyblue;
+      text-align:center;
+    }
+  #abc{
+    color:black;
+    background-color:skyblue;
+    text-align:center;
+  }
+  #a{
+      color:black;
+      text-align:center;
+    }
+  ol{
+      color:red;
+  }
+      .text-center {
+          text-align: center;
+      }
+   fieldset{
+       text-align:center;
+   }
+   .abc{
+      color:blue;
+      
+      text-align:center;
+    }
+  td{
+    text-align:left;
+  }
+  .b{
+    text-Align:left;
+  }
+  .c{
+    text-Align:right;
+  }
+  .container{
+    text-align:center;
+  }
+  .row{
+    border:solid 1px black;
+    height:5px;
+    display:flex;
+    flex:0 1 400px;
+    flex-direction: column;
+    
+    height:90px;
+  }.row1{
+    border:solid black 2px;
+    display: flex;
+    flex:0 1 90%;
+    flex-direction: row;
+    height:50%;
+  }.row2{
+    border:solid black 2px;
+    display: flex;
+    flex:0 1 90%;
+    flex-direction: row;
+    height:50%;
+  }.col{
+    border:solid black 1px;
+    flex:0 1 90%;
+  }
+  
